@@ -22,7 +22,7 @@ $chinese = array(
 	'loginok' => "您已经登陆.",
 	'loginerror' => "抱歉，登陆失败，请仔细检查您的登陆信息.",
 	'login:empty' => "请输入您的用户名和密码.",
-	'login:baduser' => "抱歉，加载您的用户账户失败."
+	'login:baduser' => "抱歉，加载您的用户账户失败.",
 	'auth:nopams' => "抱歉，内部错误，没有安装用户验证功能.",
 
 	'logout' => "登出",
@@ -1360,4 +1360,3 @@ $chinese = array(
 );
 
 add_translation("zh",$chinese);
-?>
